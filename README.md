@@ -2,7 +2,7 @@
 Coursera - Programming for Everybody (Python) by Charles Severance
 
 
-The Course uses the text Book Python for Informatics: Exploring Information by Dr. Charles R Severance 
+The Course uses the text Book Python for Informatics: Exploring Information by Dr. Charles R Severance.
 All exsercise/assignment from Course based on The Text
 
 ##Syllabus Help
